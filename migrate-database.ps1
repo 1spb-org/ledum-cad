@@ -1,0 +1,1 @@
+dotnet run --project LedumCAD.Host --migrate-database
